@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Abinet-Cholo
+# Hi, I’m Abinetß
 
 -  **Interests:** Artificial Intelligence, Machine Learning, and Software Development.
 -  **Currently Learning:** Deep Learning, TensorFlow, and PyTorch.
