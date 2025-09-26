@@ -15,7 +15,7 @@
 # 👋 Hi, I’m **Abinet Bushura Cholo**
 
 🎓 CS Student @ NYU Abu Dhabi (Class of 2027)  
-💻 Backend Developer Intern @ WeGo Ride | Applied AI & ML  
+💻 Software Enginnering Intern @ WeGo Ride | Applied AI & ML  
 🤖 Passionate about Deep Learning & Building Scalable Systems  
 🌍 From Ethiopia | ⚽ Football Fan  
 
@@ -28,7 +28,7 @@
 ## 🪪 About Me
 I’m a **Computer Science student at NYU Abu Dhabi** (full scholarship, Class of 2027) with hands-on experience in **backend development and applied AI**.  
 
-- 🚀 **Backend Intern @ WeGo Ride (Summer 2025)**: built scalable APIs, optimized databases, deployed on AWS.  
+- 🚀 **Software Enginnering Intern @ WeGo Ride (Summer 2025)**: built scalable APIs, optimized databases, deployed on AWS.  
 - 📚 Coursework: Data Structures, Algorithms, Deep Learning, Computer Vision, Robotics, Probability & Statistics.  
 - 🤖 Interests: AI (Transformers, PyTorch), scalable backend systems, and startups.  
 - ⚡ Fun fact: I’m a huge football fan who codes and plays with equal passion.  
